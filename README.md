@@ -1,6 +1,6 @@
 # NZ Pizza Hut Tester
 
-A Windows-friendly Tkinter control panel for running the Pizza Hut browser workflow with Playwright.
+A Windows desktop tool that opens the Pizza Hut checkout in Playwright, generates randomized five-digit coupon candidates, and tests them against the visible coupon field while showing progress in a Tkinter control panel.
 
 ## Requirements
 
