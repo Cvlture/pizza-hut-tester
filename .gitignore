@@ -1,0 +1,10 @@
+pizza_profile/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.log
+pizza_settings.json
+.pytest_cache/
+.vscode/
