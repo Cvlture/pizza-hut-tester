@@ -31,7 +31,7 @@ def save_settings(settings: AppSettings) -> None:
 class SettingsApp(tk.Tk):
     def __init__(self) -> None:
         super().__init__()
-        self.title("Pizza Hut Tester")
+        self.title("NZ Pizza Hut Tester")
         self.geometry("760x680")
         self.minsize(680, 560)
         self.ready_event = threading.Event()
